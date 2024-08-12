@@ -1,0 +1,1 @@
+使用paddleOCR以及baiduOCR对比4o生成内容
